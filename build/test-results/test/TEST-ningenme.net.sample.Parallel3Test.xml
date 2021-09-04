@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ningenme.net.sample.Parallel3Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-09-04T08:38:00" hostname="tfuruta-dynabook-KIRA-V63-PS" time="30.037">
+  <properties/>
+  <testcase name="test4()" classname="ningenme.net.sample.Parallel3Test" time="10.024"/>
+  <testcase name="test3()" classname="ningenme.net.sample.Parallel3Test" time="10.003"/>
+  <testcase name="test2()" classname="ningenme.net.sample.Parallel3Test" time="10.002"/>
+  <testcase name="test1()" classname="ningenme.net.sample.Parallel3Test" time="10.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
